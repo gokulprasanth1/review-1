@@ -1,0 +1,28 @@
+h1{
+    text-align: center;
+    font-size:xx-large;
+    background-color: beige;
+    background-position: center;
+    background-size: cover;
+    margin: -30px;
+    width:auto;
+    height:fit-content;
+    padding: 50px;
+}
+.form-group{
+    text-align: center;
+    margin-left: 0px;
+    
+    
+}
+
+body{
+    background-image: url('https://th.bing.com/th/id/OIP.z4Gz38P6Yu-DhxL7rxEK2wHaGq?w=231&h=208&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:auto;
+    height:600px;
+    margin:auto;
+}

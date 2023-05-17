@@ -1,0 +1,24 @@
+h1{
+    background-image: url('https://th.bing.com/th/id/OIP.BvFnIg9pH0ZklpYqcjEFggHaFk?w=200&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7');
+    text-align: center;
+    color: aliceblue;
+    padding: 70px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 0px;
+    width:auto;
+    height: fit-content;
+}
+body{
+    background-color: antiquewhite;
+    height: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width:auto;
+    height:600px;
+    margin:auto;
+    font-size: large;
+    text-align: center;
+}
